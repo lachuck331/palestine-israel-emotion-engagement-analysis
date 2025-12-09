@@ -17,7 +17,6 @@ Using a dataset of 30,000 sampled posts, we applied automated feature extraction
 | `handcoding_analysis.ipynb` | **Validation:** Compares human-coded ground truth (100 posts) against **Gemini 3 Pro** predictions. Includes Inter-Coder Reliability (Cohen's Kappa) calculations. |
 | `reddit_emotion_engagement.ipynb` | **Data Prep:** Initial exploration and cleaning of the raw Reddit corpus. |
 | `HandCoding_human_vs_AI.csv` | The validation dataset containing 100 posts with Human vs. AI labels. |
-| `Project_Memo.pdf` | Detailed research paper explaining the theoretical framework and limitations. |
 
 ## Workflow & Methodology
 
