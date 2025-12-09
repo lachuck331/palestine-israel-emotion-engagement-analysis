@@ -2,7 +2,7 @@
 
 **Course:** DSC 161 / LIGN 167 - Final Project  
 **Authors:** Ishaan Bal, Lacha Barton-Gluzman, Kartik Gopalani  
-**Date:** December 2, 2025  
+**Date:** December 8, 2025  
 
 ## Project Overview
 This project investigates how emotional content (e.g., Joy, Anger, Fear) and topical themes (e.g., Violence, Politics) influence user engagement on Reddit discussions surrounding the Israel-Palestine conflict.
